@@ -164,7 +164,7 @@ Most importantly: it can't catch the design that looks clean and still fails. A 
 
 The hardest part of auditing your own work is that you know too much about it. You remember why you added every element. A first-time visitor doesn't, and un-knowing that on your own is genuinely difficult.
 
-**Signature Audit · $749** — Send your build. Get it scored across all eight dimensions in five days, with prioritized fixes and a 60-minute walkthrough call.
+**Signature Audit · $500** — Send what you built. I'll audit it  personally. Get it scored across all eight dimensions in five days, with prioritized fixes and a 60-minute walkthrough call.
 
 [ai-atelier.com/vibe-code-studio](https://ai-atelier.com/vibe-code-studio)
 
@@ -180,7 +180,7 @@ Don't sell it or repackage it as your own product. Full terms in `LICENSE`.
 
 ## Questions
 
-hi@jentalkstech.com
+hello@thebloomology.com
 
 I read every email. If you run the scan, reply and tell me your score. I'm collecting them.
 
