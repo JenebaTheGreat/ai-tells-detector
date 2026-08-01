@@ -1,15 +1,15 @@
 ---
 name: ai-tells-detector
-description: "Scan any website, app, landing page, dashboard, or slide deck for the specific visual patterns that make it look AI-generated, then fix each one. Use when someone says their work looks generic, templated, 'like every other AI site,' cheap, or 'off' but they can't name why. Also use when someone asks 'why does my site look AI-generated,' 'does this look like AI made it,' 'make this look less generic,' 'my landing page looks like a template,' or shares a build and asks for a vibe check. Works on screenshots, live URLs, generated code, Figma frames, or a written description. Returns a scored count of tells found, plus the exact fix and a paste-ready prompt for each one."
+description: "Scan any website, app, landing page, dashboard, or slide deck for the specific visual patterns that make it look AI-generated, then fix each one. Use when someone says their work looks like AI made it, templated, 'like every other AI site,' cheap, or 'off' but they can't name why. Also use when someone asks 'why does my site look AI-generated,' 'does this look like AI made it,' 'make this look less generic,' 'my landing page looks like a template,' or shares a build and asks for a vibe check. Works on screenshots, live URLs, generated code, Figma frames, or a written description. Returns a scored count of tells found, plus the exact fix and a paste-ready prompt for each one."
 ---
 
 # AI Tells Detector™
 
-AI design isn't ugly. It's *fluent* — and that's the problem.
+AI design isn't ugly. It's trained on everyone else's style, and that's the problem.
 
-Modern AI builders produce a serviceable, average-looking result instantly. But average has a face: a centered hero, two buttons, rounded cards floating on a soft purple gradient, a neutral sans-serif, emoji icons, dark mode with an aurora glow. Different tools, the same face, because they all ship the same defaults before a single real decision gets made.
+AI tools and builders produce a serviceable, average-looking result instantly. But average has a copy-paste aesthetic, a centered hero, two buttons, rounded cards floating on a soft purple gradient, a neutral sans-serif, emoji icons, dark mode with an aurora glow. Different tools, the same styling, because they all ship the same defaults before a single real, human decision gets made.
 
-This skill finds those defaults and tells you exactly how to replace them with authored choices.
+This skill finds those defaults and tells you exactly how to replace them with agency and authored choices.
 
 ---
 
@@ -17,7 +17,7 @@ This skill finds those defaults and tells you exactly how to replace them with a
 
 One job: identify which of the 10 known AI-generated design tells are present in the user's work, then give the specific fix for each.
 
-It is a **diagnostic**, not a full design audit. It answers "why does this look generic?" — not "is this good design?" Those are different questions.
+It is a diagnosis, not a full design audit. It answers "why does this look generic?" not "is this good design?" Those are different questions.
 
 ---
 
@@ -25,9 +25,9 @@ It is a **diagnostic**, not a full design audit. It answers "why does this look 
 
 Trigger on any of these:
 
-- "Why does my site look AI-generated?"
+- "Why does my site or app look AI-generated?"
 - "This looks like a template"
-- "My landing page looks cheap / generic / like everyone else's"
+- "My landing page looks cheap / generic / mid like everyone else's"
 - "Does this look like AI made it?"
 - "Make this look less generic"
 - Someone shares a build and asks for a vibe check
@@ -66,10 +66,10 @@ Count the tells found and report the tier:
 
 | Tells found | Tier | Meaning |
 |---|---|---|
-| 0–1 | **Authored** | A real design system is visible. |
+| 0–1 | **Authored** | A real design system is visible and you're using AI with agency |
 | 2–4 | **Developing** | The bones are there. A few defaults remain. |
-| 5–7 | **Foundational** | The AI is running the show. Rebuild from color and type. |
-| 8–10 | **Default output** | Start with the system, not the components. |
+| 5–7 | **Foundational** | The AI is running the show and your vibes. Rebuild from color and type. |
+| 8–10 | **Default output** | Start with building a design system, not the components. |
 
 Report the number plainly. Do not soften it. Most first-time scans land at five or higher, and that is normal — it's the tool doing what tools do, not a personal failure.
 
