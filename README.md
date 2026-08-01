@@ -1,6 +1,6 @@
 # AI Tells Detector™
 
-**Your AI builder made a hundred design decisions before you made one. This finds them.**
+**Your AI tool of choice made a hundred design decisions before you made one. This finds them.**
 
 [![License: Free](https://img.shields.io/badge/license-Free%20to%20use-38A169.svg)](./LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-0A1628.svg)](https://claude.ai)
@@ -30,7 +30,7 @@ Open [`references/quick-scan.md`](./references/quick-scan.md) and count your yes
 
 Most people score five or higher the first time.
 
-That is not a personal failure. It is what happens when a tool ships a hundred decisions before you make one. You inherited choices you never made. Now you can make them.
+That is not a personal failure. It is what happens when you outsource design to a LLM. Listen AI doesn't have TASTE. It's up to you to direct it with your vibes. You inherited choices you never made. Now you change that.
 
 ---
 
@@ -83,7 +83,7 @@ git clone https://github.com/JenebaTheGreat/ai-tells-detector.git ~/.codex/skill
 
 Paste `SKILL.md` at the top of a conversation, then paste `references/tells-catalog.md` when it asks.
 
-Full walkthrough in [`GETTING-STARTED.md`](./GETTING-STARTED.md), including video guides for non-technical builders.
+Full walkthrough in [`GETTING-STARTED.md`](./GETTING-STARTED.md)
 
 ---
 
@@ -154,9 +154,9 @@ Most importantly, it cannot catch the design that looks clean and still fails. A
 
 ## Want a second pair of eyes
 
-The hardest part of auditing your own work is that you know too much about it. You remember why you added every element. A first-time visitor does not, and un-knowing that on your own is genuinely difficult.
+The hardest part of auditing your own work is that you know too much about it. You remember why you added every element. A first-time visitor does not, and un-knowing that on your own is difficult.
 
-**Signature Audit · $749** — Send your build. Get it scored across eight dimensions in five days, with prioritized fixes and a 60-minute walkthrough call.
+**Signature Audit · $500** — Send me the build you vibe coded. I'll personally audit it. Get it scored across eight dimensions in five days, with prioritized fixes and a 60-minute walkthrough call.
 
 [ai-atelier.com/vibe-code-studio](https://ai-atelier.com/vibe-code-studio)
 
